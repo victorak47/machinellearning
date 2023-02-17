@@ -1,1 +1,1 @@
-# machinellearning
+regression model using only numpy
